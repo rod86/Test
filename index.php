@@ -1,3 +1,3 @@
 <?php
 
-echo "Hi git";
+echo "Hi git. Source tree is cool";
